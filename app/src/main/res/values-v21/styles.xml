@@ -1,0 +1,19 @@
+<resources>
+
+
+    <!--base application theme.-->
+    <style name="AppMaterialTheme" parent="SuperMaterilaTheme">
+        <!--Custom theme.-->
+    </style>
+
+
+
+    <!-- Base application theme. -->
+    <style name="SuperMaterilaTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="android:colorControlHighlight">#AFEEEE</item>
+        <item name="android:colorButtonNormal">#BC8F8F</item>
+    </style>
+
+</resources>

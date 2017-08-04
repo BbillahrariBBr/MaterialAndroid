@@ -1,0 +1,23 @@
+<resources>
+
+
+    <!--base application theme.-->
+    <style name="AppMaterialTheme" parent="SuperMaterilaTheme">
+        <!--Custom theme.-->
+    </style>
+
+
+
+    <!-- Base application theme. -->
+    <style name="SuperMaterilaTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        
+        <item name="colorControlHighlight">#0077b5</item>
+        <item name="colorButtonNormal">#006400</item>
+        <item name="colorControlActivated">#696969</item>
+    </style>
+
+</resources>
